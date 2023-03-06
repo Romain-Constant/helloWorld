@@ -11,3 +11,6 @@ new test
 allez encore un 
 
 et puis encore un
+
+modifications via terminal and "nano" command
+
